@@ -10,7 +10,7 @@ People re-tweeting things you didn't read last time they tweeted it
 
 Plaintive requests for follows
 -------------
-- (?i)please.*(\bwatch\b|\bfollow\b)|(\bwatch\b|\bfollow\b).*(me|please|back)
+- (?i)please.\ *(\bwatch\b|\bfollow\b)|(\bwatch\b|\bfollow\b).*\ (me|please|back)
 
 Tweets mentioning four or more other people
 -------------
